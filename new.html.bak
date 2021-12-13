@@ -1,0 +1,40 @@
+<form>
+<label for="fname">first name:
+</label><br>
+<input type="text" id="fname"
+name="fname"><br>
+<label for ="mname"> middle name:
+</label><br>
+<input type="text" id="mname"
+name="lname"><br>
+<label for ="lname">last name:
+</label><br>
+<input type="text" id="mname"
+name="fname"><br>
+<label for="fname">email address:
+</label><br>
+<input type="text" id="fname"
+name="fname"><br>
+<label for="fname">Tel No:
+</label><br>
+<input type="text" id="fname"
+name="fname"><br>
+<label for="fname">gender male:
+<input type="radio" id="fname"
+name="fname"><br>
+<label for="fname">gender female:
+<input type="radio" id="fname"
+name="fname"><br>
+<label for="fname">Rating very good:
+<input type="radio" id="fname"
+name="fname">
+<label for="fname">Rating Good:
+<input type="radio" id="fname"
+name="fname">
+<label for="fname">Rating Poor:
+<input type="radio" id="fname"
+name="fname"><br>
+<label for="fname">submit:
+<input type="radio" id="fname"
+name="fname"><br>
+</form>
